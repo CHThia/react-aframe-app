@@ -1,15 +1,12 @@
 {
   "files": {
-    "main.js": "/react-aframe-app/static/js/main.846e3221.js",
+    "main.js": "/react-aframe-app/static/js/main.df4a9cdb.js",
     "static/js/453.6843f424.chunk.js": "/react-aframe-app/static/js/453.6843f424.chunk.js",
-    "static/media/ball.obj": "/react-aframe-app/static/media/ball.cc9752bfc5fdb58dbede.obj",
-    "static/media/slide-box.glb": "/react-aframe-app/static/media/slide-box.261faa9de6b1c0e654c3.glb",
     "index.html": "/react-aframe-app/index.html",
-    "static/media/ball.mtl": "/react-aframe-app/static/media/ball.19dcd1b3fb61b6150574.mtl",
-    "main.846e3221.js.map": "/react-aframe-app/static/js/main.846e3221.js.map",
+    "main.df4a9cdb.js.map": "/react-aframe-app/static/js/main.df4a9cdb.js.map",
     "453.6843f424.chunk.js.map": "/react-aframe-app/static/js/453.6843f424.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.846e3221.js"
+    "static/js/main.df4a9cdb.js"
   ]
 }
